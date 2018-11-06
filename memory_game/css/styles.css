@@ -93,3 +93,16 @@ footer {
     font-weight: 700;
 }
 
+@keyframes textbolder {
+    from {color: #00a6b3}
+    to {color: #f15b31}
+}
+
+#game-text {
+    font-family: "Raleway", sans-serif;
+    font-weight: 600;
+    color: #f15b31;
+    letter-spacing: 1px;
+    font-size: 20px;
+    margin: 0;
+}
