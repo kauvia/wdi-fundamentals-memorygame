@@ -1,7 +1,7 @@
 body {
     text-align: center;
     margin: 0;
-    }
+}
 
 h1 {
     font-family: "Raleway", sans-serif;
@@ -86,7 +86,7 @@ footer {
     clear: both;
     height: 0;
     font-size: 0;
-    }
+}
 
 .name {
     color: #f15b31;
@@ -94,8 +94,13 @@ footer {
 }
 
 @keyframes textbolder {
-    from {color: #00a6b3}
-    to {color: #f15b31}
+    from {
+        color: #00a6b3
+    }
+
+    to {
+        color: #f15b31
+    }
 }
 
 #game-text {
